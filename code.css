@@ -5,14 +5,14 @@
     display: none;
   }
 }
-@media screen and (min-height: 498px) {
+@media screen and (min-height: 460px) {
   .menu-dropdown.profile .submenu::-webkit-scrollbar {
     display: none;
   }
 }                
 
 /*Левое submenu*/
-            .l-top_menu-v2 .menu-dropdown.main .submenu a {
+.l-top_menu-v2 .menu-dropdown.main .submenu a {
     opacity: 0;
     -webkit-transform: rotateY(90deg);
     transform: rotateY(90deg);
