@@ -1,6 +1,6 @@
 /*Анимация открытия submenu*/
 /*Убираю образовавшийся скроллбар*/
-@media screen and (min-height: 722px) {
+@media screen and (min-height: 720px) {
   .menu-dropdown.main .submenu::-webkit-scrollbar {
     display: none;
   }
